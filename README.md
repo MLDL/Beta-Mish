@@ -4,6 +4,7 @@
 
 # β-Mish
 
+<div style="text-align:center"><img src ="Observations/function.png"  width="400"/></div>
 <div style="text-align:center"><img src ="Observations/Mish3.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/Derivatives.png"  width="800"/></div>
 
