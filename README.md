@@ -5,7 +5,7 @@
 # 🧠 β-Mish
 
 <div style="text-align:center"><img src ="Observations/function.png"  width="300"/></div>
-*f(x)=xtanh{ln((1+e<sup>x</sup>)<sup>β</sup>)}
+*f(x)=xtanh{ln((1+e*<sup>*x*</sup>*)*<sup>*β*</sup>*)}*
 If β=1.5, the function ranges from: ≈-0.451103 to ∞.
 <div style="text-align:center"><img src ="Observations/Mish3.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/Derivatives.png"  width="800"/></div>
