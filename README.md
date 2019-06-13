@@ -1,6 +1,8 @@
 <p align="center">
   <img width="300" src="Observations/logo_transparent.png">
 </p>
+[![Donate](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/digantamisra98/Beta-Mish/issues)
 
 # 🧠 β-Mish
 
