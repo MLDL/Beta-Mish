@@ -41,6 +41,20 @@ If β=1.5, the function ranges from: ≈-0.451103 to ∞. For most benchmarks, �
 <em> **This shows the amount of RAM Free.
 </em><br>
 
+### Fashion-MNIST:
+
+#### Mini VGG:
+
+| Activation Function  | Accuracy (25*) |  Loss (25*) | 
+| ------------- | ------------- | ---|
+| ReLU  | 93.19%  |1.895%|
+| Swish-1  | 93.09%  |1.935%|
+| Mish  | 93.31%|1.859%|
+|β-Mish (β=1.5)|**93.44%**|**1.8222%**|
+
+<em> *The number indicates the Number of Epochs
+</em><br>
+
 ### CIFAR-10:
 
 ### ResNet v1:
