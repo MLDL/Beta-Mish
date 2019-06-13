@@ -4,6 +4,7 @@
 
 # 🧠 β-Mish
 
+β-Mish is an uni-parametric activation activation inspired from Mish activation function. When β=1, β-Mish becomes the standard version of Mish. 
 β-Mish can be mathematically represented using the function: 
 <div style="text-align:center"><img src ="Observations/func.png"  width="280"/></div>
 The partial derivatives of the function are:
