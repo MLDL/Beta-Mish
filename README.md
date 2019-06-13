@@ -9,6 +9,7 @@
 <div style="text-align:center"><img src ="Observations/func.png"  width="280"/></div>
 <div style="text-align:center"><img src ="Observations/partial_x.png"  width="520"/></div>
 <div style="text-align:center"><img src ="Observations/partial_beta.png"  width="300"/></div>
+<div style="text-align:center"><img src ="Observations/dev.png"  width="300"/></div>
 
 If β=1.5, the function ranges from: ≈-0.451103 to ∞.
 
