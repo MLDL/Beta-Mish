@@ -12,8 +12,7 @@ The partial derivatives of the function are:
 When β=1.5, the function has the following 1<sup>st</sup> derivative:
 <div style="text-align:center"><img src ="Observations/dev.png"  width="340"/></div>
 
-If β=1.5, the function ranges from: ≈-0.451103 to ∞. For most benchmarking, β was set to be 1.5.
-
+If β=1.5, the function ranges from: ≈-0.451103 to ∞. For most benchmarks, β was set to be 1.5.
 <div style="text-align:center"><img src ="Observations/Mish3.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/Derivatives.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/All.png"  width="1000"/></div>
