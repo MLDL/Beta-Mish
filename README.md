@@ -6,7 +6,7 @@
 
 β-Mish can be mathematically represented using the function: 
 
-<div style="text-align:center"><img src ="Observations/func.png"  width="700"/></div>
+<div style="text-align:center"><img src ="Observations/func.png"  width="500"/></div>
 <div style="text-align:center"><img src ="Observations/partial_x.png"  width="500"/></div>
 <div style="text-align:center"><img src ="Observations/partial_beta.png"  width="300"/></div>
 
