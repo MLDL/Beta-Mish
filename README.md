@@ -5,7 +5,6 @@
 # 🧠 β-Mish
 
 β-Mish can be mathematically represented using the function: 
-
 <div style="text-align:center"><img src ="Observations/func.png"  width="280"/></div>
 The partial derivatives of the function are:
 <div style="text-align:center"><img src ="Observations/partial_x.png"  width="520"/></div>
@@ -13,7 +12,7 @@ The partial derivatives of the function are:
 When β=1.5, the function has the following 1<sup>st</sup> derivative:
 <div style="text-align:center"><img src ="Observations/dev.png"  width="340"/></div>
 
-If β=1.5, the function ranges from: ≈-0.451103 to ∞.
+If β=1.5, the function ranges from: ≈-0.451103 to ∞. For most benchmarking, β was set to be 1.5.
 
 <div style="text-align:center"><img src ="Observations/Mish3.png"  width="800"/></div>
 <div style="text-align:center"><img src ="Observations/Derivatives.png"  width="800"/></div>
