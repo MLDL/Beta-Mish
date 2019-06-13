@@ -6,9 +6,8 @@
 
 β-Mish can be mathematically represented using the function: 
 
-f(x)=xtanh{ln((1+e<sup>x</sup>)<sup>β</sup>)}
-
-<div style="text-align:center"><img src ="Observations/partial_x.png"  width="400"/></div>
+<div style="text-align:center"><img src ="Observations/func.png"  width="700"/></div>
+<div style="text-align:center"><img src ="Observations/partial_x.png"  width="500"/></div>
 <div style="text-align:center"><img src ="Observations/partial_beta.png"  width="300"/></div>
 
 If β=1.5, the function ranges from: ≈-0.451103 to ∞.
