@@ -10,7 +10,7 @@
 The partial derivatives of the function are:
 <div style="text-align:center"><img src ="Observations/partial_x.png"  width="520"/></div>
 <div style="text-align:center"><img src ="Observations/partial_beta.png"  width="300"/></div>
-When β=1.5, the function has the following 1<sup>st<\sup> derivative:
+When β=1.5, the function has the following 1<sup>st</sup> derivative:
 <div style="text-align:center"><img src ="Observations/dev.png"  width="340"/></div>
 
 If β=1.5, the function ranges from: ≈-0.451103 to ∞.
