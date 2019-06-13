@@ -57,9 +57,9 @@ If β=1.5, the function ranges from: ≈-0.451103 to ∞. For most benchmarks, �
 
 ### CIFAR-10:
 
-### ResNet v1:
+#### ResNet v1:
 
-#### ResNet-20:
+##### ResNet-20:
 
 |Activation Function| Top-1 Accuracy| Loss|
 |---|---|---|
@@ -68,7 +68,7 @@ If β=1.5, the function ranges from: ≈-0.451103 to ∞. For most benchmarks, �
 |ReLU|91.5%|4.94356%|
 |β-Mish (β = 1.5)|91.75%|4.4894%|
 
-#### ResNet-32:
+##### ResNet-32:
 
 |Activation Function| Top-1 Accuracy| Loss|
 |---|---|---|
@@ -77,9 +77,9 @@ If β=1.5, the function ranges from: ≈-0.451103 to ∞. For most benchmarks, �
 |ReLU|91.78%|4.51267568%|
 |β-Mish (β = 1.5)|**92.49%**|4.49838%|
 
-### ResNet v2:
+#### ResNet v2:
 
-#### ResNet-20:
+##### ResNet-20:
 
 |Activation Function|Testing Top-1 Accuracy|Testing Loss|
 |---|---|---|
