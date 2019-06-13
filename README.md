@@ -25,6 +25,22 @@ If β=1.5, the function ranges from: ≈-0.451103 to ∞. For most benchmarks, �
 
 ## Results
 
+### MNIST:
+
+#### LeNet-4:
+
+| Activation Function  | Accuracy (20*) |  Loss (20*) | GPU-Utilization (20*) |CPU-RAM Utilization** (20*)| Training Time (20*) | Inference Time (20*)| Top 5 Accuracy (20*) | Top 3 Accuracy (20*)|
+| ------------- | ------------- | ---|---|---|---|---|---|---|
+| ReLU  | **98.65%**  |**0.368%**|5%|**11.4GB**|**51.67 seconds**|**0.197 seconds**|**100%**|99.94%|
+| Swish-1  | 98.42%  |0.385%|5%|**11.4GB**|65.11 seconds|0.2157 seconds|99.99%|99.9%|
+| Mish  | 98.64%  |**0.368%**|5%|11.2GB|81.12 seconds|0.2967 seconds|**100%**|99.94%|
+|β-Mish (β=1.5)|98.45%|0.4648%|5%|10.9GB|84.87 seconds|0.3061 seconds|**100%**|**99.97%**|
+
+<em> *The number indicates the Number of Epochs
+</em><br>
+<em> **This shows the amount of RAM Free.
+</em><br>
+
 ### CIFAR-10:
 
 ### ResNet v1:
