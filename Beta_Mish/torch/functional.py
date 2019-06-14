@@ -1,5 +1,5 @@
 '''
-Script provides functional interface for custom activation functions.
+Script provides functional interface for β mish activation function.
 '''
 
 # import pytorch

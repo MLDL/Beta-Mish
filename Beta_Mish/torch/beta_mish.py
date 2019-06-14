@@ -26,7 +26,7 @@ class beta_mish(nn.Module):
         >>> output = m(input)
 
     '''
-    def __init__(self):
+    def __init__(self, beta=1.5):
         '''
         Init method.
         '''
