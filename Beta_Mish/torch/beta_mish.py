@@ -8,7 +8,7 @@ import torch
 from torch import nn
 
 # import activation functions
-import Echo.Activation.Torch.functional as Func
+import Beta_Mish.Torch.functional as Func
 
 class beta_mish(nn.Module):
     '''
