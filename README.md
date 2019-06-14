@@ -126,3 +126,17 @@ If β=1.5, the function ranges from: ≈-0.451103 to ∞. For most benchmarks, �
 |SELU|80.24%|94.3%|97.56%|1.9122%|
 |Leaky ReLU(α=0.3)|**83.42%**|**95.48%**|**97.96%**|1.5393%|
 |β Mish (β=1.5)|83.15%|94.98%|97.5%|**1.4803%**|
+
+### Caravan Image Masking Challenge Dataset:
+ 
+#### U-Net:
+
+| Activation Function  | Training Loss (5*) |  Training Dice-Loss (5*) | Validation Loss(5*)| Validation Dice-Loss(5*)| Average Epoch Time | Average Step Time|
+| ------------- | ------------- | ---|---|---|---|---|
+| ReLU  |  0.724% |0.119%|0.578%|0.096%|**343.2 seconds**|**253 milli-seconds**|
+| Swish-1  | 0.665%|0.111%|0.639%|0.108%|379 seconds|279.2 milli-seconds|
+| Mish  |0.574%|**0.097%**|0.554%|**0.092%**|411.2 seconds|303 milli-seconds|
+|β Mish (β=1.5)|**0.296%**|0.144%|**0.228%**|0.121%|647 seconds|476.6 milli-seconds|
+
+<em> *The number indicates the Number of Epochs
+</em><br>
